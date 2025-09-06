@@ -1,0 +1,2 @@
+I am praticing for CS3377.
+I am a result of the cp - copy method which is source file , final destination

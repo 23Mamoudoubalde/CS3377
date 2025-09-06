@@ -1,0 +1,9 @@
+Unix commands are fundamental tools used to interact with the 
+Unix operating system through the command-line interface. 
+They allow users to perform a wide range of tasks such as navigating the file system,
+ managing files and directories, viewing and editing text files, 
+ and controlling processes. Common commands include `ls` for listing directory contents,
+  `cd` for changing directories, `cp` and `mv` for copying and moving files, 
+  and `rm` for removing files.
+   Mastery of Unix commands is essential for efficient system administration,
+    software development, and automation of repetitive tasks.
